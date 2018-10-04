@@ -1,0 +1,10 @@
+a.navbar-brand {
+    text-align: center;
+}
+a.navbar-item{
+    margin-left: 20px;
+}
+
+nav.navbar.navbar-expand-lg {
+    background-color: black;
+}
